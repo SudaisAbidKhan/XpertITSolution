@@ -27,8 +27,8 @@
       <div class="footer-col">
         <h4>Contact</h4>
         <ul>
-          <li><a href="#">University Road, Peshawar</a></li>
-          <li><a href="tel:+919150001234">+91 91 5000 1234</a></li>
+          <li><a href="#">Kaka Khail Town near Pakha Ghulam Dalaza road Peshawar, Pakistan</a></li>
+          <li><a href="tel:+92 313 9383506">+92 313 9383506</a></li>
           <li><a href="mailto:info@xpertitsolution.edu.pk">info@xpertitsolution.edu.pk</a></li>
         </ul>
       </div>

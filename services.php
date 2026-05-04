@@ -50,7 +50,7 @@ $current_page = "services";
         <!-- Card 01 -->
         <div class="servCard reveal" data-category="tech">
           <div class="servCard-img-wrap">
-            <img src="assets/images/1.jpg" alt="Web and App Development" />
+            <img src="assets/images/program-web-dev.jpg" alt="Web and App Development" />
             <span class="servCard-badge">Most Popular</span>
           </div>
           <div class="servCard-body">
@@ -79,7 +79,7 @@ $current_page = "services";
         <!-- Card 02 -->
         <div class="servCard reveal d1" data-category="security">
           <div class="servCard-img-wrap">
-            <img src="assets/images/2.webp" alt="Cyber Security" />
+            <img src="assets/images/program-cyber-security.jpg" alt="Cyber Security" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -107,7 +107,7 @@ $current_page = "services";
         <!-- Card 03 -->
         <div class="servCard reveal d2" data-category="data">
           <div class="servCard-img-wrap">
-            <img src="assets/images/4.jpg" alt="Data Science and AI" />
+            <img src="assets/images/program-data-science.jpg" alt="Data Science and AI" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -135,7 +135,7 @@ $current_page = "services";
         <!-- Card 04 -->
         <div class="servCard reveal" data-category="design">
           <div class="servCard-img-wrap">
-            <img src="assets/images/5.jpg" alt="UI UX Design" />
+            <img src="assets/images/program-ui-ux.jpg" alt="UI UX Design" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -163,7 +163,7 @@ $current_page = "services";
         <!-- Card 05 -->
         <div class="servCard reveal d1" data-category="tech">
           <div class="servCard-img-wrap">
-            <img src="assets/images/2.webp" alt="Mobile App Development" />
+            <img src="assets/images/program-app-dev.jpg" alt="Mobile App Development" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -191,7 +191,7 @@ $current_page = "services";
         <!-- Card 06 -->
         <div class="servCard reveal d2" data-category="tech">
           <div class="servCard-img-wrap">
-            <img src="assets/images/5.jpg" alt="Cloud and Networking" />
+            <img src="assets/images/program-cloud.jpg" alt="Cloud and Networking" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -219,7 +219,7 @@ $current_page = "services";
         <!-- Card 07 -->
         <div class="servCard reveal" data-category="design">
           <div class="servCard-img-wrap">
-            <img src="assets/images/4.jpg" alt="Graphic Design" />
+            <img src="assets/images/program-graphic-design.jpg" alt="Graphic Design" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -247,7 +247,7 @@ $current_page = "services";
         <!-- Card 08 -->
         <div class="servCard reveal d1" data-category="data">
           <div class="servCard-img-wrap">
-            <img src="assets/images/1.jpg" alt="Business Intelligence" />
+            <img src="assets/images/program-business-intelligence.jpg" alt="Business Intelligence" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">
@@ -275,7 +275,7 @@ $current_page = "services";
         <!-- Card 09 -->
         <div class="servCard reveal d2" data-category="security">
           <div class="servCard-img-wrap">
-            <img src="assets/images/2.webp" alt="Digital Forensics" />
+            <img src="assets/images/program-digital-forensic.jpg" alt="Digital Forensics" />
           </div>
           <div class="servCard-body">
             <div class="servCard-top">

@@ -205,10 +205,10 @@ $current_page = "home";
       <div class="testimonial-inner">
         <div class="test-meta reveal">
           <div class="test-avatar">
-            <img src="assets/images/3.jpg" alt="Sara Yousaf portrait" />
+            <img src="assets/images/staff/wahab khan.jpeg" alt="Wahab Khan portrait" />
           </div>
           <div class="test-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-          <div class="test-name">Sara Yousaf</div>
+          <div class="test-name">Wahab Khan</div>
           <div class="test-role">Software Engineer, Systems Ltd Peshawar<br/>Class of 2019</div>
         </div>
         <blockquote class="reveal d1">

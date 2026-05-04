@@ -70,7 +70,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <span class="contInfoItem-icon">&#x1F4CD;</span>
         <div>
           <p class="contInfoItem-label">Address</p>
-          <p class="contInfoItem-value">University Road, Peshawar, KPK, Pakistan</p>
+          <p class="contInfoItem-value">Kaka Khail Town near Pakha Ghulam Dalaza road Peshawar, Pakistan</p>
         </div>
       </div>
       <div class="contInfoDivider"></div>
@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <span class="contInfoItem-icon">&#x1F4DE;</span>
         <div>
           <p class="contInfoItem-label">Phone</p>
-          <a href="tel:+919150001234" class="contInfoItem-value contInfoItem-link">+91 91 5000 1234</a>
+          <a href="tel:+919150001234" class="contInfoItem-value contInfoItem-link">+92-313-9383506</a>
         </div>
       </div>
       <div class="contInfoDivider"></div>
@@ -266,11 +266,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <section class="contMap" id="contOffice">
     <div class="contMap-embed">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.0!2d71.5249!3d34.0151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAwJzU0LjMiTiA3McKwMzEnMjkuNiJF!5e0!3m2!1sen!2spk!4v1234567890"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.3988995765535!2d71.60750217475436!3d34.0336373187141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38d93d257a3be095%3A0xf73799a4c0f048a5!2sXpert%20IT%20Solution%20and%20Training!5e0!3m2!1sen!2s!4v1777865515944!5m2!1sen!2s"
         width="100%" height="100%" style="border:0;"
         allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
-        title="Xpert IT Solution — University Road, Peshawar"
+        title="Xpert IT Solution — kaka khail town location"
       ></iframe>
     </div>
     <div class="contMap-card">
@@ -278,14 +278,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <h3 class="contMap-cardTitle">Find Us Here</h3>
       <p class="contMap-cardAddress">
         Xpert IT Solution<br/>
-        University Road, Peshawar<br/>
-        Khyber Pakhtunkhwa, Pakistan
+        Kaka Khail Town <br/>
+        near Pakha Ghulam Dalaza road Peshawar, Pakistan
       </p>
       <div class="contMap-cardMeta">
         <span class="contMap-badge">&#x1F697; Parking Available</span>
         <span class="contMap-badge">&#x1F68C; Bus Route 7 &amp; 12</span>
       </div>
-      <a href="https://www.google.com/maps/dir/?api=1&destination=University+Road+Peshawar"
+      <a href="https://www.google.com/maps/dir/?api=1&destination=Kaka+Khail+Town+Peshawar"
          target="_blank" rel="noopener" class="btn btn-solid contMap-btn">
         Get Directions <span class="btn-arrow">&#8594;</span>
       </a>
@@ -329,10 +329,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
           <p class="cta-sub reveal d1">Our admissions counsellors are available 6 days a week. No pressure, no obligation — just answers.</p>
         </div>
         <div class="cta-actions reveal d2">
-          <a href="tel:+919150001234" class="btn btn-white">
+          <a href="tel:+92 313 9383506" class="btn btn-white">
             Call Now <span class="btn-arrow">&#8594;</span>
           </a>
-          <a href="https://wa.me/919150001234" target="_blank" rel="noopener" class="btn-outline-white">WhatsApp Us</a>
+          <a href="https://wa.me/+92 313 9383506" target="_blank" rel="noopener" class="btn-outline-white">WhatsApp Us</a>
           <p class="cta-note">Mon – Sat &nbsp;·&nbsp; 9:00 AM – 7:00 PM</p>
         </div>
       </div>
